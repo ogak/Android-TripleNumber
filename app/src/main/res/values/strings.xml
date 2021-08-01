@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Triple Number</string>
+    <string name="labelSumProduct">Sum Product</string>
+    <string name="labelMultiplyProduct">Multiply Product</string>
+    <string name="sumProduct">12</string>
+    <string name="multiplyProduct">15</string>
+    <string name="enterButton">Enter Code</string>
+    <string name="codeHints">321</string>
+    <string name="add">Add</string>
+    <string name="multiply">Multiply</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_text_name">About</string>
+    <string name="level_text_label">Level</string>
+    <string name="level_text">1</string>
+    <string name="your_answer">Your Answer</string>
+    <string name="return_to_title">Return to title</string>
+    <string name="play_again">Play Again</string>
+    <string name="game_over">Game Over</string>
+    <!--  Cara Bermain Text  -->
+    <string name="about_title">About</string>
+    <string name="about_content">
+        Simple number puzzle game, Finish all level all you need to do is find a valid combination number consists 3 number. Good luck! :)
+    </string>
+
+    <!--    Version Number -->
+    <string name="version">v1.0.0</string>
+</resources>
