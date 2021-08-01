@@ -1,4 +1,4 @@
 # Android-TripleNumber
 Simple number puzzle game
 
-<img src="https://media.giphy.com/media/ufAdA5NnonBkxhbnme/giphy.gif" alt="Apps Preview" width="720" height="1280">
+<img src="https://media.giphy.com/media/ufAdA5NnonBkxhbnme/giphy.gif" alt="Apps Preview" width="320" height="648">
